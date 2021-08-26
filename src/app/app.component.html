@@ -1,0 +1,3 @@
+<div *ngFor="let value of arr; even as e; odd as o">
+    <h2 [ngClass]="{special: e, error: o}">{{value}}</h2>
+</div>

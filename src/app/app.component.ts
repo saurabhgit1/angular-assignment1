@@ -8,7 +8,7 @@ import { Component } from '@angular/core';
 export class AppComponent {
   title = 'ngclassdemo';
 
-  arr=['first line', 'second line', 'third line', 'fourth line'];
+  arr=['first line', 'second line', 'third line', 'fourth line', 'fifth line'];
 
   // listofclasses1 ={
   //   "special":true
